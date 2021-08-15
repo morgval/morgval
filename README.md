@@ -3,10 +3,10 @@
 - 🥅 2021 Goal: Complete a 100 days of code challenge
 - 💥 Fun fact: before learning to code, I was a freelance graphic designer
 - 📚 In addition to improving what is already in my portfolio, some topics I hope to explore next are:
-  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />](typescriptlang.org)  Typescript 
-  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angularjs.svg" />](angularjs.org)  Angular.js 
+  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />](https://www.typescriptlang.org)  Typescript 
+  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angularjs.svg" />](https://www.angularjs.org)  Angular.js 
   * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />](https://www.cplusplus.com)  C++ (data structures mainly) 
-  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](reactjs.org)  React
+  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](https://www.reactjs.org)  React
 
 📃 View my [resume](https://www.notion.so/morganaval/Morgana-Val-eb08d6e601924ca2963c59f242514500).
 
