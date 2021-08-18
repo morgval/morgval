@@ -12,11 +12,13 @@
 
 ### Current Working Repo
 <!-- insert current working repo widget  -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=github-readme-stats)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=100-days-of-code)](https://github.com/morgval/100-days-of-code)
 
 
 ### Connect
 <!-- insert social links -->
+[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/morgana-val-17930b133/)
+[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/morgana-val-17930b133/)
 
 ### Top Languages
 <!-- insert top languages widget -->
