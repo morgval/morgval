@@ -8,7 +8,7 @@
   * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />](https://www.cplusplus.com)  Advanced C++ (data structures mainly) 
   * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](https://www.reactjs.org)  React
 
-📃 View my [resume](https://www.notion.so/morganaval/Morgana-Val-eb08d6e601924ca2963c59f242514500).
+📃 View my [resume](https://morganaval.notion.site/Morgana-Val-eb08d6e601924ca2963c59f242514500).
 
 ## Current Working Repo
 <!-- insert current working repo widget  -->
