@@ -58,7 +58,7 @@
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />]
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/notion.svg" />]
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powerbi.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/prezi.svg" />]
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/prezi.svg" />
 
 <!---
 morgval/morgval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
