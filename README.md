@@ -29,28 +29,28 @@
 ## Tools
 <!-- insert tool icons and links -->
 ### Design
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobedreamweaver.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canva.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" />]
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobedreamweaver.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canva.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" />
 
 ### Development
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachemaven.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachenetbeanside.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/atom.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/eclipseide.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/intellijidea.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jetbrains.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/opengl.svg" />]
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />]
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachemaven.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachenetbeanside.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/atom.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/eclipseide.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/intellijidea.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jetbrains.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/opengl.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
 
 ### Collaboration
 <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bitbucket.svg" />
