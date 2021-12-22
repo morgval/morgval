@@ -59,6 +59,7 @@
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/notion.svg"/>](https://www.notion.so/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powerbi.svg"/>](https://powerbi.microsoft.com/en-us/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/prezi.svg"/>](https://prezi.com/)
+[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg"/>](https://slack.com/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/zoom.svg"/>](https://zoom.com/)
 
 <!---
