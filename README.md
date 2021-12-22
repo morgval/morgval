@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Morgana aka @morgval
-- 🌱 I’m currently learning Cisco DevNet.
-- 🥅 2021 Goal: Complete my bachelor's degree ☑️ Complete Cisco DevNet Associate Exam 🔲
-- 💥 Fun fact: before learning to code, I was a freelance graphic designer
+- 🌱 I’m currently learning about OOP in JavaScript.
+- 🥅 2021 Goal: Complete my bachelor's degree ☑️ Become a Junior Developer (or score an internship!) ⬜
+- 💥 Fun fact: in high school and college, I was a freelance graphic designer
 - 📚 In addition to improving what is already in my portfolio, some tools I hope to explore next are:
+  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](https://www.reactjs.org)  React
   * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />](https://www.typescriptlang.org)  Typescript 
   * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angularjs.svg" />](https://www.angularjs.org)  Angular.js 
-  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />](https://www.cplusplus.com)  Advanced C++ (data structures mainly) 
-  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](https://www.reactjs.org)  React
+  * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" />](https://www.cplusplus.com)  C++
 
 📃 View my [resume](https://morganaval.notion.site/Morgana-Val-eb08d6e601924ca2963c59f242514500).
 
