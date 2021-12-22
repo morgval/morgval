@@ -30,8 +30,8 @@
 <!-- insert tool icons and links -->
 ### Design
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg"/>](https://www.adobe.com/products/illustrator.html)
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg"/>](https://www.adobe.com/products/indesign.html?promoid=S36FMXDK&mv=other)
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg"/>](https://www.adobe.com/products/photoshop.html?promoid=RL89NFBP&mv=other)
+[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeindesign.svg"/>](https://www.adobe.com/products/indesign.html)
+[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg"/>](https://www.adobe.com/products/photoshop.html)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canva.svg"/>](https://www.canva.com/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg"/>](https://www.figma.com/)
 
@@ -49,6 +49,7 @@
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg"/>](https://www.mongodb.com/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"/>](https://www.mysql.com/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/opengl.svg"/>](https://www.opengl.org/)
+[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg"/>](https://www.plotly.org/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"/>](https://www.python.org/)
 
 ### Collaboration
