@@ -49,7 +49,7 @@
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg"/>](https://www.mongodb.com/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"/>](https://www.mysql.com/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/opengl.svg"/>](https://www.opengl.org/)
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg"/>](https://www.plotly.org/)
+[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/plotly.svg"/>](https://plotly.com/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"/>](https://www.python.org/)
 
 ### Collaboration
