@@ -12,7 +12,7 @@
 
 ## Current Working Repo
 <!-- insert current working repo widget  -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=Student-Records-Dashboard)](https://github.com/morgval/100-days-of-code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=Student-Records-Dashboard)](https://github.com/morgval/Student-Records)
 
 
 ## Connect
