@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Morgana aka @morgval
 - 🌱 I’m currently learning about OOP in JavaScript.
-- 🥅 2021 Goal: Complete my bachelor's degree ☑️ Become a Junior Developer (or score an internship!) ⬜
+- 🥅 2022 Goal: Start a career (or score an internship!) ⬜
 - 💥 Fun fact: in high school and college, I was a freelance graphic designer
 - 📚 In addition to improving what is already in my portfolio, some tools I hope to explore next are:
   * [<img height="14" width="14" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](https://www.reactjs.org)  React
