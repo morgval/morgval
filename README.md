@@ -12,7 +12,7 @@
 
 ## Current Working Repo
 <!-- insert current working repo widget  -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=Student-Records-Dashboard)](https://github.com/morgval/Arithmetic-Arranger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=morgval&repo=Arithmetic-Arranger)](https://github.com/morgval/Arithmetic-Arranger)
 
 
 ## Connect
