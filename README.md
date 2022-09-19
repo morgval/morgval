@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Morgana aka @morgval
-- 🌱 I’m currently learning about OOP in JavaScript.
+- 🌱 I’m currently learning about OOP in JavaScript and further developing my knowledge of Python algorithms and data structures.
 - 🥅 2022 Goal: Start a career (or score an internship!) ⬜
 - 💥 Fun fact: in high school and college, I was a freelance graphic designer
 - 📚 In addition to improving what is already in my portfolio, some tools I hope to explore next are:
