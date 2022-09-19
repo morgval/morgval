@@ -19,7 +19,6 @@
 <!-- insert social links -->
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/morgana-val-17930b133/)
 [<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/morg_val/)
-[<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/morg_val)
 
 ## Top Languages
 <!-- insert top languages widget -->
